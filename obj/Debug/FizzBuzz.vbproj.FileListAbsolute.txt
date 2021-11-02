@@ -1,0 +1,12 @@
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.xml
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.vbprojAssemblyReference.cache
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.frmFizzBuzz.resources
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Resources.resources
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.vbproj.GenerateResource.cache
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.vbproj.CoreCompileInputs.cache
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.xml
+D:\Resources\Development\Repository\Visual_Studio\VisualBasic\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
