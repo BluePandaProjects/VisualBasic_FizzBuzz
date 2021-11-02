@@ -9,8 +9,6 @@
             .View = View.Details
             .Columns.Add("FizzBuzz", 100)
         End With
-        'listviewResults.Columns.Add("FizzBuzz", 100)
-        'listviewResults.Columns.Add("TestABC", 100)
     End Sub
 
     Private Function CheckIsInteger(value As Object)
